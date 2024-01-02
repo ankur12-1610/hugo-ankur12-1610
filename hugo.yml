@@ -126,12 +126,12 @@ params:
           SiteVerificationTag: "G-C0Y1VZ254B"
 
   # assets:
-    # disableHLJS: true
-    # favicon: "favicon.ico"
-  #     favicon16x16: "<link / abs url>"
-  #     favicon32x32: "<link / abs url>"
-    # apple_touch_icon: "favicon.ico"
-  #     safari_pinned_tab: "<link / abs url>"
+  #   disableHLJS: true
+  #   favicon: "/favicon.ico"
+  #   favicon16x16: "/favincon-16x16.png"
+  #   favicon32x32: "<link / abs url>"
+  #   apple_touch_icon: "favicon.ico"
+  #   safari_pinned_tab: "<link / abs url>"
 
   cover:
       hiddenInList: true # hide on list pages and home

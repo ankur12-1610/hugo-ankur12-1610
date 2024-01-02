@@ -93,9 +93,9 @@ Once the results were announced, we were asked to contact our respective mentors
 
 I've written blogs on my Summer of Bitcoin work:
 
-*   Midterm Work: [https://my-blog.ankurrev.tech/specter-sob-1](https://my-blog.ankurrev.tech/specter-sob-1)
+*   Midterm Work: [https://ankur12-1610.github.io/posts/sob-part1](https://ankur12-1610.github.io/sob-part2)
     
-*   Final Work: [https://my-blog.ankurrev.tech/specter-sob-final](https://my-blog.ankurrev.tech/specter-sob-final)
+*   Final Work: [https://ankur12-1610.github.io/posts/sob-part2](https://ankur12-1610.github.io/sob-part2)
     
 
 ### Weekly Seminars
