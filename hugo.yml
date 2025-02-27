@@ -46,7 +46,7 @@ languages:
           url: /search/
           weight: 50
         - name: Resume
-          url: /resume/
+          url: "https://drive.google.com/file/d/1C7v-g-WZVMngEwy1-bEs6sY5ECsiuvC2/view"
           weight: 70
 
 outputs:
